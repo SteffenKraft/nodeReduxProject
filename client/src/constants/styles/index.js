@@ -1,0 +1,1 @@
+export const FONT_SIZE_H1 = '1.8em';
